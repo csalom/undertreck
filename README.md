@@ -16,6 +16,8 @@ absence of a server that provides all the information, the maps are added to the
 added to the 'gpx' directory. Other well-known libraries are used in this project, like jquery and bootstrap. It also
 uses some phonegap plugins, like the org.apache.cordova.geolocation. In the extended version, more phonegap's plugins are used.
 
+Only the web-development files are provided in this repository. To work on the project you must
+prepare a phonegap enviroment. All the information can be found here: http://docs.phonegap.com/
 
 ## Future work:
 1. Translate the code to make it easier to understand.
